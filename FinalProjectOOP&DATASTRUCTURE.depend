@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1708120655 source:d:\finalprojectoop&datastructure\main.cpp
+	<iostream>
+	"Customer.h"
+	"Teller.h"
+	"Queue.h"
+
+1708121132 d:\finalprojectoop&datastructure\include\customer.h
+	<iostream>
+	<random>
+
+1708121069 d:\finalprojectoop&datastructure\include\teller.h
+	<iostream>
+	<random>
+
+1708120712 d:\finalprojectoop&datastructure\include\queue.h
+	"Node.h"
+	"Customer.h"
+
+1708120805 d:\finalprojectoop&datastructure\include\node.h
+	"Customer.h"
+
+1708618551 source:d:\bqms\main.cpp
+	<iostream>
+	<vector>
+	"Customer.h"
+	"Teller.h"
+	"Bank.h"
+	"linkedTeller.h"
+
+1708619673 d:\bqms\include\customer.h
+	<iostream>
+	<random>
+
+1708615324 d:\bqms\include\teller.h
+	<iostream>
+	<random>
+
+1708590404 d:\bqms\include\queue.h
+	"Node.h"
+	"Customer.h"
+	<queue>
+
+1708120805 d:\bqms\include\node.h
+	"Customer.h"
+
+1708617614 d:\bqms\include\bank.h
+	<cstdlib>
+	"Customer.h"
+	"Teller.h"
+	"linkedTeller.h"
+	"CustomerQueue.h"
+
+1708604409 d:\bqms\include\linkedteller.h
+	"Teller.h"
+
+1708546913 d:\bqms\include\banktry.h
+	<queue>
+	<cstdlib>
+	<ctime>
+	"Customer.h"
+	"Teller.h"
+	"Queue"
+	"linkedTeller.h"
+
+1708592745 d:\bqms\include\priortyqueue.h
+	"Node.h"
+	<queue>
+	"Customer.h"
+
+1708622034 d:\bqms\include\customerqueue.h
+	"Customer.h"
+	<queue>
+	<vector>
+
+1708624184 source:d:\cpp\main.cpp
+	<iostream>
+	<vector>
+	"Customer.h"
+	"Teller.h"
+	"Bank.h"
+	"linkedTeller.h"
+
+1708619673 d:\cpp\include\customer.h
+	<iostream>
+	<random>
+
+1708624184 d:\cpp\include\teller.h
+	<iostream>
+	<random>
+
+1708623734 d:\cpp\include\bank.h
+	<cstdlib>
+	"Customer.h"
+	"Teller.h"
+	"linkedTeller.h"
+	"CustomerQueue.h"
+
+1708604409 d:\cpp\include\linkedteller.h
+	"Teller.h"
+
+1708623149 d:\cpp\include\customerqueue.h
+	"Customer.h"
+	<queue>
+	<vector>
+
+1708629085 source:c:\users\ghost\downloads\ffinalupdate\cpp\cpp\main.cpp
+	<iostream>
+	<vector>
+	"Customer.h"
+	"Teller.h"
+	"Bank.h"
+	"linkedTeller.h"
+	<windows.h>
+
+1708619100 c:\users\ghost\downloads\ffinalupdate\cpp\cpp\include\customer.h
+	<iostream>
+	<random>
+
+1708619100 c:\users\ghost\downloads\ffinalupdate\cpp\cpp\include\teller.h
+	<iostream>
+	<random>
+
+1708627910 c:\users\ghost\downloads\ffinalupdate\cpp\cpp\include\bank.h
+	<cstdlib>
+	"Customer.h"
+	"Teller.h"
+	"linkedTeller.h"
+	"CustomerQueue.h"
+
+1708619100 c:\users\ghost\downloads\ffinalupdate\cpp\cpp\include\linkedteller.h
+	"Teller.h"
+
+1708619100 c:\users\ghost\downloads\ffinalupdate\cpp\cpp\include\customerqueue.h
+	"Customer.h"
+	<queue>
+	<vector>
+
